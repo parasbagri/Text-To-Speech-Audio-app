@@ -4,7 +4,7 @@ const fs = require("fs");
 // const file = require("./speech.txt");
 // console.log(file.toString());
 
-// Python script ka path
+// Python script path
 const pythonScript = path.join(__dirname, "py", "tts_synthesizer.py");
 
 // Function to run the Python script
@@ -40,6 +40,5 @@ const text =
 // console.log(textScript);
 // const text = fs.readFileSync(textScript, "utf8");
 // console.log(text1);
-const outputPath = path.join(__dirname, "output12.mp3"); // Audio file ka extension .mp3 rakhein
 
 synthesizeText(text, outputPath);
