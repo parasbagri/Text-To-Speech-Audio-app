@@ -1,0 +1,25 @@
+Iss video mein, main aapko dikhata hoon ki kaise ek nayi AI tool ka use karke aap ek poori kitab ek ghante se bhi kam time mein likh sakte ho. Aaj kal AI kaafi crazy ho gaya hai, aur kai AI tools claim karte hain ki wo aapke liye poori kitab likh denge. Lekin jo maine test kiya hai, usse mujhe lagta hai ki yeh tool jo main aapko dikhane wala hoon, yeh fastest, simplest aur sabse easy way hai ek kitab likhne ka. Aur yeh tool hai Dibbly Cat.
+
+Iss video mein, main aapke saamne topic research karunga, poori kitab likhunga, usse format karunga, aur upload karne ke liye ready karunga. Agar aap chahein toh step-by-step follow kar sakte hain. Toh chaliye shuru karte hain!
+
+Hum is video mein ek kitab decluttering ke upar likhne ki koshish karte hain. Decluttering ek aisa topic hai jo kaafi profitable hai. Jaise, yeh kitab jo aap yahan dekh rahe ho, yeh har din $2 kama rahi hai. Aur iska audiobook version har din $256 kama raha hai, paperback ko count kiye bina. Dekha jaye toh decluttering ek kaafi profitable topic hai.
+
+Toh, sabse pehle hum kya karenge? "New Project" pe click karenge aur iska naam rakhenge Decluttering Book. Ab yahan aap technically likhna start kar sakte ho. Intro likhne ki shuruaat kar sakte ho, ya phir AI assistant Kip se madad le sakte ho, jo iss tool ke andar integrated hai. Aap Kip se kuch bhi pooch sakte ho jaise "Please write an intro for a book on decluttering." Aur yeh intro likhna start kar dega.
+
+Aur agar aap chahein toh likhe hue text ko select karke "enrich content" ka option use kar sakte hain, jo aapke text ko aur expand karke ek solid block mein badal dega. Lekin likhne se pehle, main yeh recommend karta hoon ki aap upar diye gaye templates explore karein, jo online description aur research ke liye kaam aate hain.
+
+Ab likhne se pehle hum topic ke baare mein research karenge. Matlab yeh samjhenge ki customers kya chahte hain aur log kis cheez mein interested hain. "Research" tab mein kai options hain, lekin mujhe Amazon search term analysis best lagta hai.
+
+Yahan, aap marketplace select kar sakte ho (jaise .com ya .uk). Main yahan "decluttering" term dalunga aur number of books 5 kar dunga. Fir "Search" pe click karte hain. Yeh data generate karne mein thoda time leta hai, lekin video mein time save karne ke liye, main aapko woh result dikhata hoon jo maine kal generate kiya tha.
+
+Ab jo result aata hai, usme competitor books ke details hoti hain, jaise product overview aur reviews ka summary. Yeh reviews ko padhta hai aur batata hai ki logon ko kitab mein kya pasand aaya aur kya nahi. Saath hi yeh strengths, weaknesses, aur competitive edge bhi dikhata hai, jo kaafi helpful hota hai.
+
+Competitive edge se pata chalta hai ki yeh kitab crowd mein kaise stand out kar rahi hai. Aap yeh information copy ya model kar sakte ho taaki aapki kitab bhi unique lage. Iske alawa, yeh keywords ki analysis bhi deta hai jo aapki kitab ke liye important ho sakte hain.
+
+Ab second book ke data ko bhi analyze karte hain. Dekhte hain ki writing style aur language easy aur relatable hai ya nahi. Reviews ke basis pe yeh pata chalta hai ki writing ko relatable aur thoda humorous banana smart idea ho sakta hai.
+
+Toh research ke baad aapko yeh clear ho jata hai ki kitab ko kaise likhna hai aur kya cheezein include karni chahiye.Isliye research karna ek important step hai likhne se pehle.
+
+Aage ki video mein hum dekhenge ki yeh sab use karke kitab ko aur refine kaise karte hain. Toh dekhte rahiye!
+
+gitignoreFile : -> "npx gitignore Node"
